@@ -1,0 +1,36 @@
+_repo: The-Million-Dollar-Suitcase_29877
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: MacGowan, Alice
+    birthdate: 1858
+    deathdate: 1947
+    gutenberg_agent_id: '32071'
+    url: http://www.gutenberg.org/2009/agents/32071
+  - agent_name: Newberry, Perry
+    birthdate: 1870
+    deathdate: 1938
+    gutenberg_agent_id: '34221'
+    url: http://www.gutenberg.org/2009/agents/34221
+description: Jeremiah "Jerry" Boyne, head of the Bankers' Security Agency in San Francisco,
+  is hired to investigate the mysterious theft -- from inside a bank -- of a suitcase
+  filled with nearly a million dollars in cash. The case involves not one, but two
+  locked room mysteries and a murder disguised as a suicide.
+gutenberg_issued: '2009-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29877'
+  lccn: '22005370'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: The Million-Dollar Suitcase
+url: http://www.gutenberg.org/ebooks/29877
